@@ -4,6 +4,7 @@ Ce fichier Excel permet de simuler différents scénarios de crédit immobilier 
 - Je connais les mensualités
 
 1. Feuille: Simulateur Autorisation
+
 Objectif: Estimer le montant maximum empruntable en fonction des revenus ainsi que le coût de cet emprunt, des charges existantes, du taux d’endettement maximal autorisé, du taux d’intérêt et de la durée souhaitée.
 
 Données à renseigner:
@@ -24,6 +25,7 @@ Résultat principal:
 - Coût total de cet emprunt (€)
 
 2. Feuille: Je connais la durée
+
 Objectif: Calculer les mensualités et le coût total du crédit à partir d’un montant emprunté, d’un taux d’intérêt fixe et d’une durée de remboursement connue.
 
 Données à renseigner:
@@ -47,6 +49,7 @@ Détail du tableau d’amortissement:
 - Capital restant dû après chaque échéance (€)
 
 3. Feuille: Je connais les mensualités
+
 Objectif: Estimer la durée nécessaire pour rembourser un emprunt à mensualité fixe, en fonction du montant emprunté et du taux d’intérêt.
 
 Données à renseigner:
