@@ -1,4 +1,4 @@
-Ce fichier Excel permet de simuler différents scénarios de crédit immobilier ou à la consommation. Il comprend trois feuilles de calcul distinctes, chacune correspondant à un cas d’usage:  
+Ce fichier Excel permet de simuler différents scénarios de crédit immobilier ou à la consommation. Il comprend trois feuilles de calcul distinctes, chacune correspondant à un cas d’usage:
 - Simulateur Autorisation
 - Je connais la durée
 - Je connais les mensualités
