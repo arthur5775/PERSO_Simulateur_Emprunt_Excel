@@ -4,7 +4,7 @@ Ce fichier Excel permet de simuler différents scénarios de crédit immobilier 
 - Je connais les mensualités
 <br><br>
 
-1. Feuille: Simulateur Autorisation
+1. <u>Feuille: Simulateur Autorisation</u>
 
 Objectif: Estimer le montant maximum empruntable en fonction des revenus ainsi que le coût de cet emprunt, des charges existantes, du taux d’endettement maximal autorisé, du taux d’intérêt et de la durée souhaitée.
 
@@ -24,6 +24,7 @@ Calculs intermédiaires:
 Résultat principal:
 - Montant maximal que l'on peut emprunter dans les conditions définies (€)
 - Coût total de cet emprunt (€)
+<br><br>
 
 2. Feuille: Je connais la durée
 
@@ -66,6 +67,7 @@ Résultats produits:
 
 Détail du tableau d’amortissement: 
 - Même structure que la feuille précédente, calculée jusqu’à extinction du capital.
+<br><br>
 
 PS:
 - Tous les calculs reposent sur un taux d’intérêt fixe.
