@@ -2,6 +2,7 @@ Ce fichier Excel permet de simuler différents scénarios de crédit immobilier 
 - Simulateur Autorisation
 - Je connais la durée
 - Je connais les mensualités
+<br><br>
 
 1. Feuille: Simulateur Autorisation
 
